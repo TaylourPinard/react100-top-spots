@@ -1,4 +1,4 @@
-import React, { component } from React;
+import React, { component } from 'react';
 export default (props) => {
   return(
     <div className='well'>
